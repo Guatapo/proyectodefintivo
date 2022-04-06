@@ -1,0 +1,31 @@
+.carousel-inner{
+    max-height: 40rem;
+}
+@media(max-width: 576px) {
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center !important;
+        text-align: center !important;
+
+    }
+
+    
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagen{
+    margin-top: 16px ;
+    
+
+}
+.tarjeta{
+    margin-top: 300px;
+    margin-bottom: auto;
+
+
+}
